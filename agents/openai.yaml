@@ -1,0 +1,4 @@
+interface:
+  display_name: "计划书协作写作"
+  short_description: "从构想到可交付计划书，支持需求采集、预算核对、逐章修订和文档整理"
+  default_prompt: "使用 $plan-writing-workflow，根据我的构想或现有材料，按需补齐信息并完成计划书。"
